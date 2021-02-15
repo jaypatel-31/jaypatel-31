@@ -56,6 +56,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [instagram]:https://www.linkedin.com/in/jay-patel-8563331a6/
 [twitter]:https://www.linkedin.com/in/jay-patel-8563331a6/
 [website]: https://www.linkedin.com/in/jay-patel-8563331a6/
