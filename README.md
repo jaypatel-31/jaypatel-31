@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jaypatel-31)
 ### Hi there, I'm Jay Patel 👋
 
 
