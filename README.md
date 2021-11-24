@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jaypatel-31)
 ### Hi there, I'm Jay Patel 👋
 
-
+ <a href="https://www.linkedin.com/in/jaypatel-31/"><img src="https://github.com/jaypatel-31/jaypatel-31/blob/temp2/Github%20LOGO.png" /></a>
 ## I'm a Student, Beginner Developer, and a learner!!
 
 - 🔭 I just started exploring github: 
