@@ -1,5 +1,6 @@
 ### Hi there, I'm Jay Patel 👋
 
+![This is an image](https://github.com/jaypatel-31/jaypatel-31/blob/temp2/Github%20LOGO.png)
 
 ## I'm a Student, Beginner Developer, and a learner!!
 
