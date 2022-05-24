@@ -1,15 +1,10 @@
-### Hi there, I'm Jay Patel 👋
+### Hey 👋🏽, I'm [Jay!](https://linkedin.com/in/jaypatel-31) 
 
 
-## I'm a Student, Beginner Developer, and a learner!!
-
-- 🔭 I just started exploring github: 
-- 🌱 I’m currently learning web skills 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to playing badminton.
+Hi, I'm Jay Patel, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. 
 
 
+- Web Development - Machine Learning - Data Science
 
 ### Connect with me:
 
