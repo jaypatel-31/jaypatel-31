@@ -1,15 +1,18 @@
-![](https://komarev.com/ghpvc/?username=jaypatel-31)
-### Hi there, I'm Jay Patel 👋
+<!-- ----------- HEAD SECTION ------------ -->
 
- <a href="https://www.linkedin.com/in/jaypatel-31/" href="https://github.com/jaypatel-31/"><img src="https://github.com/jaypatel-31/jaypatel-31/blob/temp2/Github%20Poster.png" /></a>
-## I'm a Student, Beginner Developer, and a learner!!
+![banner.png](./images/github-banner.png)
 
-- 🔭 I just started exploring github: 
-- 🌱 I’m currently learning web skills 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to playing badminton.
+<hr>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Jay;+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
+
+<hr>
+
+## About
+
+I am a final year student at Indian Institute of Information Technology (IIIT), Pune. My major is Computer Science and Engineering.I have worked on projects including languages such as Javascript, Node.js, and Python.
 
 
 ### Connect with me:
