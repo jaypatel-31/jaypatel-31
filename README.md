@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
+![me -github-banner](https://user-images.githubusercontent.com/54065115/186389179-bd2f9abb-a961-46ce-af38-f606e7014ae9.png)
 
 <hr>
 
