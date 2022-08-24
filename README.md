@@ -12,7 +12,7 @@
 
 ## About
 
-I am a final year student at Indian Institute of Information Technology (IIIT), Pune. My major is Computer Science and Engineering.I have worked on projects including languages such as Javascript, Node.js, and Python.
+I am a final year student at Indian Institute of Information Technology (IIIT), Pune. My major is Computer Science and Engineering.I am mainly focused towards Full Stack Web Development and have build some application under the same. My other interests aside from Full Stack Development are Machine Learning and Data Science.
 
 
 ### Connect with me:
