@@ -1,3 +1,6 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ![](https://komarev.com/ghpvc/?username=jaypatel-31)
 ### Hi there, I'm Jay Patel 👋
 
@@ -24,6 +27,8 @@
 ### Languages and Tools:
 
 
+            <i class="devicon-html5-plain colored"></i>
+          
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
